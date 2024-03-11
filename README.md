@@ -42,6 +42,11 @@ import {
   useSkincare,
   useSunglass,
   useTops,
+  useBags,
+  useDress,
+  useJewellery,
+  useShoes,
+  useWatch,
 } from "react-dummy-json";
 ```
 

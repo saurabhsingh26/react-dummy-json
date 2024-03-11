@@ -18,6 +18,11 @@ import useSkincare from "./hooks/useSkincare";
 import useSunglass from "./hooks/useSunglass";
 import useTodo from "./hooks/useTodo";
 import useTops from "./hooks/useTops";
+import useBags from "./hooks/useBags";
+import useDress from "./hooks/useDress";
+import useJewellery from "./hooks/useJewellery";
+import useShoes from "./hooks/useShoes";
+import useWatch from "./hooks/useWatch";
 export {
   useUsers,
   useAutomotive,
@@ -39,4 +44,9 @@ export {
   useSunglass,
   useTodo,
   useTops,
+  useBags,
+  useDress,
+  useJewellery,
+  useShoes,
+  useWatch,
 };
