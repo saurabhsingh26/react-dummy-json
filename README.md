@@ -48,5 +48,5 @@ import {
 - Get the dummy json data from the hook:
 
 ```js
-const { users } = useUsers();
+const users = useUsers();
 ```
