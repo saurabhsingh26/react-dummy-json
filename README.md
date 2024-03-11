@@ -1,6 +1,6 @@
 # react-dummy-json
 
-A ReactJS hook to get the dummy data.
+A ReactJS hook to get the dummy json data.
 
 ## How to use it?
 
@@ -45,8 +45,8 @@ import {
 } from "react-dummy-json";
 ```
 
-- Get the dummy json data from the hook:
+- Get the dummy json data from the hooks:
 
 ```js
-const users = useUsers();
+const data = useUsers();
 ```
