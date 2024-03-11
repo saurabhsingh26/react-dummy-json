@@ -18,6 +18,13 @@
   ],
   "author": "Saurabh Singh",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saurabhsingh26/react-dummy-json"
+  },
+  "bugs": {
+    "url": "https://github.com/saurabhsingh26/react-dummy-json/issues"
+  },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
