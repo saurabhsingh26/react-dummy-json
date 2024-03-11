@@ -1,3 +1,4 @@
+import { useState, useEffect } from "react";
 const useComment = () => {
   const [comments, setComments] = useState([]);
   useEffect(() => {

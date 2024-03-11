@@ -1,3 +1,4 @@
+import { useState, useEffect } from "react";
 const useAutomotive = () => {
   const [automotive, setAutomotive] = useState([]);
   useEffect(() => {

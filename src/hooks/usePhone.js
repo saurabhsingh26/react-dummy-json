@@ -1,3 +1,4 @@
+import { useState, useEffect } from "react";
 const usePhone = () => {
   const [phones, setPhones] = useState([]);
   useEffect(() => {

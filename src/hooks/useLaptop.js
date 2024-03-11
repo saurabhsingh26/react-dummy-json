@@ -1,3 +1,4 @@
+import { useState, useEffect } from "react";
 const useLaptop = () => {
   const [laptops, setLaptops] = useState([]);
   useEffect(() => {

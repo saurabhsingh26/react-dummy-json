@@ -1,3 +1,4 @@
+import { useState, useEffect } from "react";
 const useQuotes = () => {
   const [quotes, setQuotes] = useState([]);
   useEffect(() => {

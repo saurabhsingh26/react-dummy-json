@@ -1,3 +1,4 @@
+import { useState, useEffect } from "react";
 const useImage = () => {
   const [images, setImages] = useState([]);
   useEffect(() => {

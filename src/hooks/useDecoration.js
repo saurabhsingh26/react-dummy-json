@@ -1,3 +1,4 @@
+import { useState, useEffect } from "react";
 const useDecoration = () => {
   const [decoration, setDecoration] = useState([]);
   useEffect(() => {

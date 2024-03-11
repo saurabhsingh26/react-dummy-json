@@ -1,3 +1,4 @@
+import { useState, useEffect } from "react";
 const useFurniture = () => {
   const [furniture, setFurniture] = useState([]);
   useEffect(() => {

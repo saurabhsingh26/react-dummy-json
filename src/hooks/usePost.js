@@ -1,3 +1,4 @@
+import { useState, useEffect } from "react";
 const usePost = () => {
   const [posts, setPosts] = useState([]);
   useEffect(() => {
