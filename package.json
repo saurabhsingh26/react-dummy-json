@@ -1,6 +1,6 @@
 {
   "name": "react-dummy-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is an npm to fetch dummy json data",
   "main": "dist/index.js",
   "type": "module",
